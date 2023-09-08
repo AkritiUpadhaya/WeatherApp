@@ -1,0 +1,32 @@
+.container{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    background-color: rgb(69, 3, 105);
+    /* border-color: 10px solid rgb(181, 125, 238); */
+}
+.search-bar{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+ .button{
+    display: flex;
+    width: 70px;
+    height: 30px; 
+    color: rgb(6, 6, 3);
+    font-size: 15px; 
+    border-radius: 20px;
+    padding-left: 20px;
+}
+p{
+    margin-top: 400px;
+    display: flex;
+    justify-content: center;
+    color: rgb(218, 243, 243); 
+    font-size: 50px;
+    font-weight: 100;
+}
+
+
+
